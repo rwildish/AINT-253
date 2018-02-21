@@ -1,0 +1,126 @@
+Initialize engine version: 5.4.0f3 (a6d8d714de6f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Year 2 Uni\AINT 253\Wildish_R AINT253 ServerSubmission\Game\Forgotten_YouthFinalV2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Year 2 Uni\AINT 253\Wildish_R AINT253 ServerSubmission\Game\Forgotten_YouthFinalV2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Year 2 Uni\AINT 253\Wildish_R AINT253 ServerSubmission\Game\Forgotten_YouthFinalV2_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\Year 2 Uni\AINT 253\Wildish_R AINT253 ServerSubmission\Game\Forgotten_YouthFinalV2_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Year 2 Uni\AINT 253\Wildish_R AINT253 ServerSubmission\Game\Forgotten_YouthFinalV2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Year 2 Uni\AINT 253\Wildish_R AINT253 ServerSubmission\Game\Forgotten_YouthFinalV2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Year 2 Uni\AINT 253\Wildish_R AINT253 ServerSubmission\Game\Forgotten_YouthFinalV2_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\Year 2 Uni\AINT 253\Wildish_R AINT253 ServerSubmission\Game\Forgotten_YouthFinalV2_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: E:\Year 2 Uni\AINT 253\Wildish_R AINT253 ServerSubmission\Game\Forgotten_YouthFinalV2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Year 2 Uni\AINT 253\Wildish_R AINT253 ServerSubmission\Game\Forgotten_YouthFinalV2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Year 2 Uni\AINT 253\Wildish_R AINT253 ServerSubmission\Game\Forgotten_YouthFinalV2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Year 2 Uni\AINT 253\Wildish_R AINT253 ServerSubmission\Game\Forgotten_YouthFinalV2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.106 seconds
+Platform assembly: E:\Year 2 Uni\AINT 253\Wildish_R AINT253 ServerSubmission\Game\Forgotten_YouthFinalV2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Year 2 Uni\AINT 253\Wildish_R AINT253 ServerSubmission\Game\Forgotten_YouthFinalV2_Data\Managed\System.dll (this message is harmless)
+desktop: 2560x1440 144Hz; virtual: 2560x1440 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.554934 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: d0c -> priority: 1 
+  Thread -> id: 850 -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.713585 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 213.
+Total: 0.998101 ms (FindLiveObjects: 0.023435 ms CreateObjectMapping: 0.020430 ms MarkObjects: 0.128893 ms  DeleteObjects: 0.825040 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.243966 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 38979.
+Total: 5.203826 ms (FindLiveObjects: 0.904360 ms CreateObjectMapping: 0.536306 ms MarkObjects: 2.249182 ms  DeleteObjects: 1.513075 ms)
+
+Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+DoorHinge (8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+DoorHinge (1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Box001
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+DoorHinge (2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Razor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+DoorHinge (8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Wallet
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+DoorHinge (6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+PerfumeBottle
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+OrnateVase
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+DoorHinge (8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Door
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 24.599195 ms
+
+Unloading 796 unused Assets to reduce memory usage. Loaded Objects now: 256.
+Total: 8.250108 ms (FindLiveObjects: 0.091938 ms CreateObjectMapping: 0.063395 ms MarkObjects: 0.152329 ms  DeleteObjects: 7.941243 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.321183 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 384.
+Total: 1.257391 ms (FindLiveObjects: 0.025538 ms CreateObjectMapping: 0.024336 ms MarkObjects: 0.240661 ms  DeleteObjects: 0.965952 ms)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StartMenu.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.399000 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 402.
+Total: 0.552531 ms (FindLiveObjects: 0.026740 ms CreateObjectMapping: 0.009914 ms MarkObjects: 0.261994 ms  DeleteObjects: 0.253280 ms)
+
