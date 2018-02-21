@@ -1,11 +1,28 @@
 fileFormatVersion: 2
 guid: 3da57b887e4888947839b3313e880f28
 ModelImporter:
-  serializedVersion: 19
+  serializedVersion: 21
   fileIDToRecycleName:
+    100000: Camera
+    100002: minutenzeiger
+    100004: stundenzeiger
+    100006: //RootNode
+    100008: wanduhr
+    400000: Camera
+    400002: minutenzeiger
+    400004: stundenzeiger
+    400006: //RootNode
+    400008: wanduhr
+    2300000: minutenzeiger
+    2300002: stundenzeiger
+    2300004: wanduhr
+    3300000: minutenzeiger
+    3300002: stundenzeiger
+    3300004: wanduhr
     4300000: minutenzeiger
     4300002: wanduhr
     4300004: stundenzeiger
+    11100000: //RootNode
   materials:
     importMaterials: 1
     materialName: 2
@@ -16,6 +33,8 @@ ModelImporter:
     resampleCurves: 1
     optimizeGameObjects: 0
     motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
@@ -26,6 +45,7 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
+    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -33,7 +53,10 @@ ModelImporter:
     globalScale: 0.01
     meshCompression: 0
     addColliders: 0
+    importVisibility: 0
     importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
@@ -49,9 +72,11 @@ ModelImporter:
     normalSmoothAngle: 42
     normalImportMode: 1
     tangentImportMode: 4
+    normalCalculationMode: 0
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
+    serializedVersion: 2
     human: []
     skeleton: []
     armTwist: 0.5
@@ -62,7 +87,10 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 1
   humanoidOversampling: 1
